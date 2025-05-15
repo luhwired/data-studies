@@ -1,4 +1,5 @@
-## Media
+## Média
+
 $$
 \bar{x} = \frac{x_1 + x_2 + \dots + x_n}{n}
 $$
@@ -19,7 +20,14 @@ $$
 \text{Mediana} = \frac{x_{\frac{n}{2}} + x_{\frac{n}{2} + 1}}{2}
 $$
 
-## Desvio Padrao
+## Desvio padrão
+Amostral
+
+$$
+s = \sqrt{ \frac{ \sum (x_i - \bar{x})^2 }{n - 1} }
+$$
+
+Populacional
 
 $$
 \sigma = \sqrt{ \frac{ \sum (x_i - \mu)^2 }{N} }
