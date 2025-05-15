@@ -5,15 +5,15 @@ $$
 
 ### Mediana
 
-Seja um conjunto de dados ordenado com \( n \)elementos:
+Seja um conjunto de dados ordenado com \( $n$ \)elementos:
 
-#### Para \( n \) ímpar:
+#### Para \( $n$ \) ímpar:
 
 $$
 \text{Mediana} = x_{\frac{n+1}{2}}
 $$
 
-#### Para \( n \) par:
+#### Para \( $n$ \) par:
 
 $$
 \text{Mediana} = \frac{x_{\frac{n}{2}} + x_{\frac{n}{2} + 1}}{2}
